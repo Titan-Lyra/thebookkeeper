@@ -2,7 +2,6 @@
 layout: post
 title:  "Prologue to the Murkmire Malevolence"
 date:   2025-06-27 12:30:00
-categories: team14
 ---
 
 ## Members
