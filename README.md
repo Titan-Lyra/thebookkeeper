@@ -1,4 +1,7 @@
-## Main
+## Stories
+- [My Time at Strixhaven](./strixhaven/strixhaven.md)
+
+## Teams
 ### Active teams
 - [Team 2](./login.md)
 - [Team 7](./login.md)

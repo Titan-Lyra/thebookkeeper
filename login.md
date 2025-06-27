@@ -6,9 +6,9 @@ Please log in to continue.
 
 ---
 <form method="post" action="./login.md">
-**Username:** <input type="text"><br><br>
+<label>Username:</label> <input type="text"><br><br>
 
-**Password:** <input type="password"><br><br>
+<label>Password:</label> <input type="password"><br><br>
 
 <input type="submit">
 </form>
