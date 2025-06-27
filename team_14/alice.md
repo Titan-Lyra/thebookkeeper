@@ -1,6 +1,6 @@
 ## Alice
 
-**Species:** Aasimar 
+**Species:** Aasimar  
 **Class:** Bard  
 
 ---

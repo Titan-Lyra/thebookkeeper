@@ -1,7 +1,7 @@
-## The Murkmire Malevolence
+## The Murkmire Malevolence 
 
-[Latest update: 27 Juni 2025 12:31]
-[Based on The Murkmire Malevolence of Keys From the Golden Vault]
+<em>[Latest update: 27 Juni 2025 12:31]</em></br>
+
 
 ### Members
 [#1. Caelum](../caelum.md)
