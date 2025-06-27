@@ -1,5 +1,4 @@
 <header class="site-header">
-
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.minima.nav_pages | default: default_paths -%}
@@ -11,7 +10,6 @@
         <label for="nav-trigger">
           <span class="menu-icon"></span>
         </label>
-
         <div class="nav-items">
             {% assign subindexes = site.pages | where_exp: "p", "p.name == 'index.md' and p.dir != '/'" %}
             {% for page in subindexes %}
