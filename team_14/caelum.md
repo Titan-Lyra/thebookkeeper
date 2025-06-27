@@ -1,4 +1,6 @@
-## Caelum, Son of Dustan I of Nyrond
+---
+title: Caelum, Son of Dustan I of Nyrond
+---
 
 **Species:** Human  
 **Class:** Fighter  

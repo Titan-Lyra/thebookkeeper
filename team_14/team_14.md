@@ -1,4 +1,6 @@
-## Team 14
+---
+title: Team 14
+---
 
 **Current Members**
 

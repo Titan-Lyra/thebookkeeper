@@ -1,4 +1,6 @@
-## Grof Gra'nok
+---
+title: Grof Gra'nok
+---
 
 **Species:** Orc  
 **Class:** Barbarian  

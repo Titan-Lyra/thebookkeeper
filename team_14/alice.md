@@ -1,4 +1,6 @@
-## Alice
+---
+title: Alice
+---
 
 **Species:** Aasimar  
 **Class:** Bard  
