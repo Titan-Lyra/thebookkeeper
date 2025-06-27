@@ -1,7 +1,4 @@
----
-title: The Book Keeper's Archive
----
-
+#
 ## Stories
 - [My Time at Strixhaven](./strixhaven/strixhaven.md)
 
