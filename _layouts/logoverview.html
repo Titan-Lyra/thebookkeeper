@@ -3,7 +3,7 @@ layout: page
 ---
 <article class="post">
     {{ content }}
-    {{page.log_collection}} 7
+    {{page.log_collection}} 8
     {% assign selected_collection = site.collections | where: "label", page.log_collection | first %}
     {% assign logs = selected_collection.docs | sort: "date" | reverse %}
 
