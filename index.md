@@ -1,5 +1,6 @@
 ---
 title: ""
+layout: base
 ---
 
 ## Stories
