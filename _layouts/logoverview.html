@@ -2,14 +2,17 @@
 layout: page
 ---
 <article class="post">
-
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
-  </header>
-
-  <div class="post-content">
     {{ content }}
-    <h1>Test</h1>
-  </div>
+    
+    {% assign selected_collection = site.collections | where: "label", page.log_collection | first %}
+    {% assign logs = selected_collection.docs | sort: "date" | reverse %}
 
+    <ul>
+      {% for log in logs %}
+        <li>
+          <a href="{{ log.url }}">{{ log.title }}</a>
+          <small>{{ log.date | date: "%-d %B %Y" }}</small>
+        </li>
+      {% endfor %}
+    </ul>
 </article>

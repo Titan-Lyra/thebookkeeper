@@ -1,6 +1,7 @@
 ---
 title: Team 14
 layout: logoverview
+log_collection: team14_logs
 ---
 
 **Current Members**

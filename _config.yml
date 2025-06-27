@@ -18,8 +18,7 @@ plugins: ['jekyll-paginate']
 
 # Jekyll collections
 # Documentation - https://jekyllrb.com/docs/collections/
-collections_dir: collections
 collections:
-  logs:
+  team14_logs:
     output: true
-    permalink: /:collection/:title
+    permalink: /team14/:title
