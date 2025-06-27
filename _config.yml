@@ -16,10 +16,10 @@ highlighter: rouge
 
 plugins: ['jekyll-paginate']
 
-# Jekyll collections
-# Documentation - https://jekyllrb.com/docs/collections/
-collections:
-  collections_dir: logs
-  team14:
-    output: true
-    slug: /team14_logs/:name
+# # Jekyll collections
+# # Documentation - https://jekyllrb.com/docs/collections/
+# collections:
+#   collections_dir: logs
+#   team14:
+#     output: true
+#     slug: /team14_logs/:name
