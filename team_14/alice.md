@@ -1,5 +1,6 @@
 ---
 title: Alice
+layout: page
 ---
 
 **Species:** Aasimar  
@@ -7,4 +8,4 @@ title: Alice
 
 Information pending verification
 
-[Back to Team 14](./team_14.md)
+[Back to Team 14](/team_14)

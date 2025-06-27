@@ -4,11 +4,13 @@ layout: home
 ---
 
 ## Stories
-- [My Time at Strixhaven](./strixhaven/strixhaven.md)
+[My Time at Strixhaven](./strixhaven/)
 
 ## Teams
 ### Active teams
-- [Team 14](./team_14/team_14.md)
+[Team 14](./team_14/)
 
 ### Inactive teams
-- Redacted
+Redacted
+
+---

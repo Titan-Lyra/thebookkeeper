@@ -1,23 +1,20 @@
 ---
 title: Team 14
 layout: logoverview
-log_collection: team14
+main_category: team_14
 ---
 
 **Current Members**
 
-- [#1 Caelum](./caelum.md)
-- [#2 Amber](./amber.md)
-- [#3 Rowan](./rowan.md)
-- [#4 Grof Gra'nok](./grof_granok.md)
-- [#5 Alice](./alice.md)
+[#1. Caelum](/team_14/caelum)
 
-### Adventures
-[001 The Murkmire Malevolence (in progress)](./adventures/001_the_murkmire_malevolence.md)
+[#2. Amber](/team_14/amber)
 
-{% for post in site.categories.team14 %}
-    <p>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      <small>{{ post.date | date: "%-d %B %Y" }}</small>
-    </p>
-{% endfor %}
+[#3. Rowan](/team_14/rowan)
+
+[#4. Grof](/team_14/grof_granok)
+
+[#5 Alice](/team_14/alice)
+
+<!-- ### Adventures
+[001 The Murkmire Malevolence (in progress)](/team_14/adventures/001_the_murkmire_malevolence.md) -->

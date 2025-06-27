@@ -1,14 +1,56 @@
 ---
 layout: page
+
 ---
+{{content}}
+
+<h2>Adventures</h2>
 <article class="post">
-    {{ content }}
-    <ul>
-      {% for post in site.categories.team14 %}
+  
+  {% assign team_posts = site.categories[page.main_category] %}
+
+  {% comment %}
+  Build a list of unique subcategories by collecting all categories excluding main_category
+  {% endcomment %}
+  {% assign subcategories = "" | split: "" %}
+
+  {% for post in team_posts %}
+    {% for cat in post.categories %}
+      {% unless cat == page.main_category %}
+        {% unless subcategories contains cat %}
+          {% assign subcategories = subcategories | push: cat %}
+        {% endunless %}
+      {% endunless %}
+    {% endfor %}
+  {% endfor %}
+
+  {% assign subcategories = subcategories | sort %}
+
+  {% comment %}
+  Output posts grouped by subcategory
+  {% endcomment %}
+  {% for subcat in subcategories %}
+  <h3>{{ subcat | replace: "session", "Session " }}</h3>
+
+  <ul class="post-list">
+    {% assign sorted_team_posts = team_posts | sort: "date" %}
+    {% for post in sorted_team_posts %}
+      {% if post.categories contains subcat %}
         <li>
-          <a href="{{ post.url }}">{{ post.title }}</a>
-          <small>{{ post.date | date: "%-d %B %Y" }}</small>
-        </li>
-      {% endfor %}
-    </ul>
+        
+          <span class="post-meta">{{ post.date | date: "%d %B %Y"}}</span>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+
+        
+        {%- if site.minima.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}
+      </li>
+        
+      {% endif %}
+    {% endfor %}
+  </ul>
+  {% endfor %}
 </article>
