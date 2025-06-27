@@ -20,3 +20,4 @@ layout: page
       <small>{{ post.date | date: "%-d %B %Y" }}</small>
     </p>
 {% endfor %}
+Dit is een test 2
