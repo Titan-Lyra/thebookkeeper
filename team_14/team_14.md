@@ -10,9 +10,5 @@ title: Team 14
 - [#4 Grof Gra'nok](./grof_granok.md)
 - [#5 Alice](./alice.md)
 
----
-
 ### Adventures
 [001 The Murkmire Malevolence (in progress)](./adventures/001_the_murkmire_malevolence.md)
-
----
