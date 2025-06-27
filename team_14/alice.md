@@ -10,4 +10,3 @@ Information pending verification
 ---
 
 [Back to Team 14](./team_14.md)
-
