@@ -1,6 +1,4 @@
----
-title: _
----
+# Overview
 
 ## Stories
 - [My Time at Strixhaven](./strixhaven/strixhaven.md)
