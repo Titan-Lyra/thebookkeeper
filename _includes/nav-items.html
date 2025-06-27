@@ -1,8 +1,10 @@
 <div class="nav-items">
-  <!-- {%- for path in include.paths -%}
-  {%- assign hyperpage = site.pages | where: "path", path | first -%}
-  {%- if hyperpage.title %}
-  <a class="nav-item" href="{{ hyperpage.url | relative_url }}">{{ hyperpage.title | escape }}</a>
-  {%- endif -%}
-  {%- endfor %} -->
+  {% assign subindexes = site.pages | where_exp: "p", "p.name == 'index.md' and p.dir != '/'" %}
+  {% for page in subindexes %}
+    {% if page.title %}
+      <a class="nav-item" href="{{ page.url | relative_url }}">
+        {{ page.title | escape }}
+      </a> |
+    {% endif %}
+  {% endfor %}
 </div>
