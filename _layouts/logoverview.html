@@ -3,11 +3,11 @@ layout: page
 ---
 <article class="post">
     {{ content }}
-    {{page.log_collection}} 6
+    {{page.log_collection}} 7
     {% assign selected_collection = site.collections | where: "label", page.log_collection | first %}
     {% assign logs = selected_collection.docs | sort: "date" | reverse %}
 
-      {% for post in site.team14_logs %}
+      {% for post in site.team14 %}
       <p>
         <a href="{{ post.url }}">{{ post.title }}</a>
         <small>{{ post.date | date: "%-d %B %Y" }}</small>

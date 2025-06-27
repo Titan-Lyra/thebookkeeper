@@ -20,6 +20,5 @@ plugins: ['jekyll-paginate']
 # Documentation - https://jekyllrb.com/docs/collections/
 collections:
   collections_dir: logs
-  include: ['_team14_logs']
-  team14_logs:
+  team14:
     output: true
