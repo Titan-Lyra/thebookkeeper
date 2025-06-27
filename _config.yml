@@ -13,7 +13,7 @@ markdown: kramdown
 permalink: pretty
 future: true
 highlighter: rouge
-markdown: kramdown
+
 plugins: ['jekyll-paginate']
 
 # Jekyll collections
@@ -22,3 +22,4 @@ collections:
   collections_dir: logs
   team14:
     output: true
+    slug: /team14_logs/:name

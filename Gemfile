@@ -8,4 +8,5 @@ gem 'nokogiri'
 gem 'rack', '~> 2.2.4'
 gem 'rspec'
 gem 'jekyll'
+gem 'jekyll-paginate'
 gem "minima", github: "jekyll/minima", ref: "1e8a445"
