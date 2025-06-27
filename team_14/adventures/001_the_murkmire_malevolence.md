@@ -4,7 +4,15 @@
 [Based on The Murkmire Malevolence of Keys From the Golden Vault]
 
 ### Members
-[#1. Caelum](../caelum.md), [#2. Amber](../amber.md), [#3. Rowan](../rowan.md), [#4. Grof](../grof_granok.md), [#5 Alice](../alice.md)
+[#1. Caelum](../caelum.md)
+
+[#2. Amber](../amber.md)
+
+[#3. Rowan](../rowan.md)
+
+[#4. Grof](../grof_granok.md)
+
+[#5 Alice](../alice.md)
 
 ### [15th of Ches, 1493DR]
 
