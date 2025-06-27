@@ -1,4 +1,7 @@
-#
+---
+title: Amber
+---
+
 ## Stories
 - [My Time at Strixhaven](./strixhaven/strixhaven.md)
 
