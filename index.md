@@ -1,5 +1,5 @@
 ---
-title: Amber
+title: 
 ---
 
 ## Stories
