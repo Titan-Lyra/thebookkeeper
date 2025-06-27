@@ -1,5 +1,3 @@
-# The Book Keeper's Archive
-
 ## Active teams
 - [Team 2](./login.md)
 - [Team 7](./login.md)
