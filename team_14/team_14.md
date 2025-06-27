@@ -10,4 +10,4 @@
 
 ---
 ### Adventures
-[001 The Murkmire Malevolence (in progress)](./adventures/001_the_murkmire_malevolence)
+[001 The Murkmire Malevolence (in progress)](./adventures/001_the_murkmire_malevolence.md)
