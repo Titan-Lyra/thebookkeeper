@@ -12,3 +12,10 @@ title: Team 14
 
 ### Adventures
 [001 The Murkmire Malevolence (in progress)](./adventures/001_the_murkmire_malevolence.md)
+
+{% for post in site.categories.team14 %}
+    <p>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <small>{{ post.date | date: "%-d %B %Y" }}</small>
+    </p>
+{% endfor %}
