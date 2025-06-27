@@ -9,24 +9,19 @@
 - [#5 Alice](./alice.md)
 
 ---
+### The Murkmire Malevolence
 
-### [16th of Ches, 1493DR][II]
+#### [15th of Ches, 1493DR]
+
+Today I assembled a new team (team 14) to replace team 11. A group of random loners. A prince who will never sit on his father's throne, a rogue with no family name (yet) who was forced to live in the shadows (but was not hard to find), a druid, a barbarian, and... should they get bored, a bard to entertain them. I estimate their chances of success at 23%. Tomorrow I will meet them.
+
+#### [16th of Ches, 1493DR][I]
+
+A doctor at Verkenbluff University in Greyhawk has approached me. Like many who are desperate, she offered me gold to help her. Her story intrigued me. A stone that is not a stone but an egg — that reminds me of one of the members of team 14, but I digress... The doctor claims it is the egg of an eldritch horror. If it hatches, it could have dire consequences, and time is of the essence. Since urgency is required, I fear there is no choice but to assign team 14 to the task. Well, if we do nothing, the outcome may be worse... I hope.
+
+#### [16th of Ches, 1493DR][II]
 
 My loyal assistant #237 (rest in peace #236) has brought team 14 to me. It felt awkward, as if some of them had never been part of a group before. I am starting to have doubts about this group's chances of success. [#4](./grof_granok.md) is a typical barbarian who prefers fighting over careful strategies. [#5](./alice.md) is not a bard as you would expect. No eye contact whatsoever. [#1](./caelum.md) carries a purple glowing stone, which he believes is well hidden. [#3](./rowan.md) showed his discomfort—whether this was due to the group or because he cannot cope with the bustle of the city I have yet to discover. [#2](./amber.md) has piqued my interest. Usually, I can quickly uncover a contractor's background, but with this halfling I have not succeeded so far.
 
 I have instructed them to speak with Doctor Darnell. #237 will bring them to her. To be sure, I am sending <redacted> along to keep an eye on them.
-
-### [16th of Ches, 1493DR][I]
-
-A doctor at Verkenbluff University in Greyhawk has approached me. Like many who are desperate, she offered me gold to help her. Her story intrigued me. A stone that is not a stone but an egg — that reminds me of one of the members of team 14, but I digress... The doctor claims it is the egg of an eldritch horror. If it hatches, it could have dire consequences, and time is of the essence. Since urgency is required, I fear there is no choice but to assign team 14 to the task. Well, if we do nothing, the outcome may be worse... I hope.
-
-### [15th of Ches, 1493DR]
-
-Today I assembled a new team (team 14) to replace team 11. A group of random loners. A prince who will never sit on his father's throne, a rogue with no family name (yet) who was forced to live in the shadows (but was not hard to find), a druid, a barbarian, and... should they get bored, a bard to entertain them. I estimate their chances of success at 23%. Tomorrow I will meet them.
-
 ---
-
-
-
-
-
