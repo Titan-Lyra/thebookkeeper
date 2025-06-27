@@ -6,11 +6,11 @@ Please log in to continue.
 
 ---
 
-**Username:** [______________]
+**Username:** <input type="text">
 
-**Password:** [______________]
+**Password:** <input type="password">
 
-[Submit]
+<input type="submit">
 
 ---
 
