@@ -1,0 +1,11 @@
+title: The Book Keeper's archive
+description: >-
+  Logs and dossiers of all known teams, including restricted and inactive groups.
+theme: minima
+
+# Optional settings for minima theme
+author: The Book Keeper
+
+# Build settings
+markdown: kramdown
+
