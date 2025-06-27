@@ -21,3 +21,4 @@ plugins: ['jekyll-paginate']
 collections:
   team14_logs:
     output: true
+    permalink: :slug/
