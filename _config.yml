@@ -22,4 +22,3 @@ collections:
   collections_dir: logs
   team14_logs:
     output: true
-    permalink: :slug/
