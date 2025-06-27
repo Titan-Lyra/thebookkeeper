@@ -1,8 +1,7 @@
-title: The Book Keeper's archive
+title: The Book Keeper's Archive
 description: >-
   Logs and dossiers of all known teams, including restricted and inactive groups.
-theme: minima
-links: []
+theme: jekyll-theme-cayman
 
 # Optional settings for minima theme
 author: The Book Keeper
