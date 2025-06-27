@@ -1,9 +1,13 @@
 title: The Book Keeper's Archive
 description: >-
   Logs and dossiers of all known teams, including restricted and inactive groups.
-remote_theme: "jekyll/minima@1e8a445"
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+theme: minima
+minima:
+  navigation_links:
+    - title: "Home"
+      url: "/"
+    - title: "Team 14"
+      url: "/team_14/team_14.html"
 
 # Optional settings for minima theme
 author: The Book Keeper
