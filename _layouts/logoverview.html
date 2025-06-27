@@ -8,11 +8,11 @@ layout: page
     {% assign logs = selected_collection.docs | sort: "date" | reverse %}
 
     <ul>
-      {% for log in logs %}
-        <li>
-          <a href="{{ log.url }}">{{ log.title }}</a>
-          <small>{{ log.date | date: "%-d %B %Y" }}</small>
-        </li>
+      {% for post in site.categories.team14_logs %}
+      <p>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        <small>{{ post.date | date: "%-d %B %Y" }}</small>
+      </p>
       {% endfor %}
     </ul>
 </article>
