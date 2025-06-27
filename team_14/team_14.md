@@ -23,6 +23,6 @@ A doctor at Verkenbluff University in Greyhawk has approached me. Like many who 
 
 My loyal assistant #237 (rest in peace #236) has brought team 14 to me. It felt awkward, as if some of them had never been part of a group before. I am starting to have doubts about this group's chances of success. [#4](./grof_granok.md) is a typical barbarian who prefers fighting over careful strategies. [#5](./alice.md) is not a bard as you would expect. No eye contact whatsoever. [#1](./caelum.md) carries a purple glowing stone, which he believes is well hidden. [#3](./rowan.md) showed his discomfort—whether this was due to the group or because he cannot cope with the bustle of the city I have yet to discover. [#2](./amber.md) has piqued my interest. Usually, I can quickly uncover a contractor's background, but with this halfling I have not succeeded so far.
 
-I have instructed them to speak with Doctor Darnell. #237 will bring them to her. To be sure, I am sending <redacted> along to keep an eye on them.
+I have instructed them to speak with Doctor Darnell. #237 will bring them to her. To be sure, I am sending [redacted] along to keep an eye on them.
 
 ---

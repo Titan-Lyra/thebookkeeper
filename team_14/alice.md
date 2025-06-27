@@ -5,7 +5,7 @@
 
 ---
 
-<Information pending verification>
+Information pending verification
 
 ---
 
