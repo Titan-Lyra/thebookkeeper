@@ -15,3 +15,17 @@ author: The Book Keeper
 # Build settings
 markdown: kramdown
 
+# Permalinks
+permalink: pretty
+future: true
+highlighter: rouge
+markdown: kramdown
+plugins: ['jekyll-paginate']
+
+# Jekyll collections
+# Documentation - https://jekyllrb.com/docs/collections/
+collections_dir: collections
+collections:
+  logs:
+    output: true
+    permalink: /:collection/:title
