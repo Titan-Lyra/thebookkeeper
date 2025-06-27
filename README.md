@@ -8,9 +8,9 @@
 
 ## Inactive teams
 - [Team 1](./login.md)
-- <Redacted>
+- Redacted
 - [Team 4](./login.md)
-- <Redacted>
+- Redacted
 - [Team 6](./login.md)
 - [Team 8](./login.md)
 - [Team 10](./login.md)
