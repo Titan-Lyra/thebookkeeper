@@ -1,6 +1,6 @@
 ---
 title: Team 14
-layout: logoverview
+layout: page
 ---
 
 **Current Members**
