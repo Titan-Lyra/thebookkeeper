@@ -3,14 +3,12 @@ layout: page
 ---
 <article class="post">
     {{ content }}
-    {{page.log_collection}} 9
-    {% assign selected_collection = site.collections | where: "label", page.log_collection | first %}
-    {% assign logs = selected_collection.docs | sort: "date" | reverse %}
-
-      {% for post in logs %}
-      <p>
-        <a href="{{ post.url }}">{{ post.title }}</a>
-        <small>{{ post.date | date: "%-d %B %Y" }}</small>
-      </p>
+    <ul>
+      {% for post in site.categories.team14 %}
+        <li>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+          <small>{{ post.date | date: "%-d %B %Y" }}</small>
+        </li>
       {% endfor %}
+    </ul>
 </article>
