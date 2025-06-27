@@ -1,4 +1,4 @@
-# Amber
+## Amber
 
 **Species:** Halfling  
 **Class:** Rogue  
