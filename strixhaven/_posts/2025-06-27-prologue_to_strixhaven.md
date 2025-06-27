@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: post
 title:  "A Memory of Strixhaven"
 date:   2025-06-27 12:30:00
 categories: [1. Remembering Strixhaven]
