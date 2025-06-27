@@ -12,7 +12,16 @@
           <span class="menu-icon"></span>
         </label>
 
-        {% include nav-items.html paths = page_paths %}
+        <div class="nav-items">
+            {% assign subindexes = site.pages | where_exp: "p", "p.name == 'index.md' and p.dir != '/'" %}
+            {% for page in subindexes %}
+                {% if page.title %}
+                <a class="nav-item" href="{{ page.url | relative_url }}">
+                    {{ page.title | escape }}
+                </a> |
+                {% endif %}
+            {% endfor %}
+            </div>
       </nav>
     {%- endunless %}
   </div>
