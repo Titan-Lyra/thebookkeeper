@@ -1,6 +1,6 @@
 ---
 title: Team 14
-layout: page
+layout: logoverview
 ---
 
 **Current Members**
@@ -20,4 +20,3 @@ layout: page
       <small>{{ post.date | date: "%-d %B %Y" }}</small>
     </p>
 {% endfor %}
-Dit is een test 2

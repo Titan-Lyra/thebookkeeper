@@ -1,13 +1,7 @@
 title: The Book Keeper's Archive
 description: >-
   Logs and dossiers of all known teams, including restricted and inactive groups.
-theme: minima
-minima:
-  navigation_links:
-    - title: "Home"
-      url: "/"
-    - title: "Team 14"
-      url: "/team_14/team_14.html"
+#theme: minima
 
 # Optional settings for minima theme
 author: The Book Keeper
