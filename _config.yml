@@ -19,7 +19,7 @@ plugins: ['jekyll-paginate']
 # Jekyll collections
 # Documentation - https://jekyllrb.com/docs/collections/
 collections:
-  collections_dir: _logs
+  collections_dir: logs
   team14_logs:
     output: true
     permalink: :slug/
