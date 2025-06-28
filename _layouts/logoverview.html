@@ -9,7 +9,7 @@ layout: page
   <ul class="post-list">
     {% for character in team_members %}
       <li>
-        <a href="{{ character.url }}">
+        <a href="{{ site.baseurl }}{{ character.url }}">
           {{ character.title }}
         </a>
       </li>
