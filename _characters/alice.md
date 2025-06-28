@@ -1,6 +1,6 @@
 ---
-title: Alice
-name: Alice Lunara
+title: Alice Lunara
+name: Alice
 layout: page
 team: [team 14]
 ---
