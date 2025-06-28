@@ -21,6 +21,7 @@ plugins: ['jekyll-paginate']
 collections:
   characters:
     output: true
+    permalink: /characters/:name/
 
 # # Jekyll collections
 # # Documentation - https://jekyllrb.com/docs/collections/
