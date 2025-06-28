@@ -1,12 +1,14 @@
 ---
 title: Caelum, Son of Dustan I of Nyrond
 name: Caelum
-layout: page
+
+species: Human
+class: Fighter
+status: Alive
+
+layout: character
 team: [team 14]
 ---
-
-**Species:** Human  
-**Class:** Fighter  
 
 From my own intel, I understand that Caelum was trained for the battlefield. Presumably, his dream is to become Lord Commander one day. He has accepted that he shall never be a king. That has been reserved for his older brother. In my honest opinion, Caelum is the lucky one. Most king's are fools and only a fool wants to be a king.
 
