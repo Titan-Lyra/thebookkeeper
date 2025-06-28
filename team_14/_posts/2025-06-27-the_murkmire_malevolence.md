@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Prologue to the Murkmire Malevolence 1"
+title:  "Prologue to the Murkmire Malevolence"
 date:   2025-06-13 21:30:00
 categories: [01 - Murkmire Malevolence]
 ---
