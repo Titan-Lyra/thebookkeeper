@@ -2,6 +2,21 @@
 layout: page
 
 ---
+{% assign team_members = site.characters | where_exp: "c", "c.team contains page.team" %}
+
+{% if team_members != empty %}
+  <p><strong>Current members</strong></p>
+  <ul class="post-list">
+    {% for character in team_members %}
+      <li>
+        <a href="{{ character.url }}">
+          {{ character.title }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+{% endif %}
+
 {{content}}
 
 <h2>Adventures</h2>

@@ -1,6 +1,8 @@
 ---
 title: Grof Gra'nok
+name: Grof
 layout: page
+team: [team 14]
 ---
 
 **Species:** Orc  

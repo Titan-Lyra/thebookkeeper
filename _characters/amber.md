@@ -1,6 +1,8 @@
 ---
 title: Amber
+name: Amber
 layout: page
+team: [team 14]
 ---
 
 **Species:** Halfling  

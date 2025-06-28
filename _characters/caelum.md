@@ -1,6 +1,8 @@
 ---
 title: Caelum, Son of Dustan I of Nyrond
+name: Caelum
 layout: page
+team: [team 14]
 ---
 
 **Species:** Human  

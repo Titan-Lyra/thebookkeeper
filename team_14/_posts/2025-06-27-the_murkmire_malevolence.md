@@ -3,18 +3,8 @@ layout: post
 title:  "Prologue to the Murkmire Malevolence"
 date:   2025-06-13 21:30:00
 categories: [01 - Murkmire Malevolence]
+members: [Caelum, Amber, Rowan, Grof, Alice]
 ---
-
-## Members
-[#1. Caelum](/team_14/caelum)
-
-[#2. Amber](/team_14/amber)
-
-[#3. Rowan](/team_14/rowan)
-
-[#4. Grof](/team_14/grof_granok)
-
-[#5 Alice](/team_14/alice)
 
 ## Logs
 

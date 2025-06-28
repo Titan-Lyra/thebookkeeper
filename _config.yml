@@ -18,6 +18,10 @@ highlighter: rouge
 
 plugins: ['jekyll-paginate']
 
+collections:
+  characters:
+    output: true
+
 # # Jekyll collections
 # # Documentation - https://jekyllrb.com/docs/collections/
 # collections:

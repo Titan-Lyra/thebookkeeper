@@ -1,6 +1,8 @@
 ---
 title: Rowan
+name: Rowan
 layout: page
+team: [team 14]
 ---
 
 **Species:** Human  
