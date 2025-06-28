@@ -39,13 +39,20 @@ layout: page
     {% endfor %}
   {% endfor %}
 
-  {% assign subcategories = subcategories | sort %}
+{% assign subcategories = subcategories | sort %}
 
-  {% comment %}
-  Output posts grouped by subcategory
-  {% endcomment %}
-  {% for subcat in subcategories %}
-  <h3>{{ subcat | replace: "session", "Session " }}</h3>
+{% comment %}
+Output posts grouped by subcategory
+{% endcomment %}
+{% for subcat in subcategories %}
+  {% if subcat contains '-' %}
+    {% assign parts = subcat | split: '-' %}
+    {% assign subcat_clean = parts[1] | strip %}
+  {% else %}
+    {% assign subcat_clean = subcat %}
+  {% endif %}
+
+  <h3>{{ subcat_clean | replace: "session", "Session " }}</h3>
 
   <ul class="post-list">
     {% assign sorted_team_posts = team_posts | sort: "date" %}
