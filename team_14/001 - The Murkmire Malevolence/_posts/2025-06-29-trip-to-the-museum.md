@@ -5,7 +5,7 @@ date:   2025-06-29 19:29:00
 members: [Caelum, Amber, Rowan, Grof, Alice]
 ---
 
-Oh wow... credit given where credit is due. Team 14 is proving to be more realible than I expected. The citizens of Greyhawk can thank their gods that I have formed this team. And that to think I almost recuited some different members. Although I think a wizard or sorcerer would have been fitting for this group. That doesn't mean that this team isn't adequit. I think I will use the word "splendid" for them.
+Oh wow... credit given where credit is due. Team 14 is proving to be more reliable than I expected. The citizens of Greyhawk can thank their gods that I have formed this team. And that to think I almost recuited some different members. Although I think a wizard or sorcerer would have been fitting for this group. That doesn't mean that this team isn't adequit. I think I will use the word "splendid" for them.
 
 ### Meeting with Doctor Dannell
 At my request, they made their way to the University of Greyhawk to meet with [Doctor Dannell]({{ '/characters/doctor-dannell/' | relative_url }}). However, it turned out the Doctor had been dismissed from her position. During their conversation, she explained to Team 14 that the Murkmire Stone is, in fact, the egg of an Eldritch Horror—and worse still, the egg is nearly ready to hatch. She handed over her bag of holding, which [#2]({{ '/characters/amber/' | relative_url }}) took into her care. Inside the bag, they found formal attire for the gala, along with tickets for the event.
@@ -36,17 +36,17 @@ Alda: Oh, how wonderful. I’ll give you two gold.
 
 #1: Is that enough?
 
-#3: No, Caelum, that is not enough…
+#2: No, Caelum, that is not enough…
 
 #1: Ok! (makes his ridiculous thinking face) Three gold!
 
-#3: Excuse us—his stone is not for sale.
+#2: Excuse us—his stone is not for sale.
 
 Alda: Pity. Lucky for him such a clever girl came along.
 
 ---
 
-This is, of course, based solely on the facts: #1 left the room still carrying his stone, #3 looked quite satisfied with herself, and Alda—well, she’s Alda. I have nothing further to add about her demeanor.
+This is, of course, based solely on the facts: #1 left the room still carrying his stone, #2 looked quite satisfied with herself, and Alda—well, she’s Alda. I have nothing further to add about her demeanor.
 
 Before I forget, the rogue managed to slip a card out of Alda’s purse. I suspect this is the very card I’ve heard whispers about. So far, so good.
 
