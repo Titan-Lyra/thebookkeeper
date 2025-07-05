@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Memory of Strixhaven"
-date:   2025-07-06 12:30:00
+date:   2025-07-05 21:18:00
 members: [Chronos, Derek, Devon, Malrix, RyzeFoYu]
 ---
 
