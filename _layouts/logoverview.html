@@ -21,58 +21,56 @@ layout: page
 
 <h2>Adventures</h2>
 <article class="post">
-  
+
+  {% comment %}
+  Get all posts in the main category
+  {% endcomment %}
   {% assign team_posts = site.categories[page.main_category] %}
 
   {% comment %}
-  Build a list of unique subcategories by collecting all categories excluding main_category
+  Build a list of unique first subcategories
   {% endcomment %}
   {% assign subcategories = "" | split: "" %}
 
   {% for post in team_posts %}
-    {% for cat in post.categories %}
-      {% unless cat == page.main_category %}
-        {% unless subcategories contains cat %}
-          {% assign subcategories = subcategories | push: cat %}
-        {% endunless %}
-      {% endunless %}
-    {% endfor %}
+    {% assign first_subcat = post.categories[1] %}
+    {% unless subcategories contains first_subcat %}
+      {% assign subcategories = subcategories | push: first_subcat %}
+    {% endunless %}
   {% endfor %}
 
-{% assign subcategories = subcategories | sort %}
+  {% assign subcategories = subcategories | sort %}
 
-{% comment %}
-Output posts grouped by subcategory
-{% endcomment %}
-{% for subcat in subcategories %}
-  {% if subcat contains '-' %}
-    {% assign parts = subcat | split: '-' %}
-    {% assign subcat_clean = parts[1] | strip %}
-  {% else %}
-    {% assign subcat_clean = subcat %}
-  {% endif %}
+  {% comment %}
+  Output posts grouped by first subcategory
+  {% endcomment %}
+  {% for subcat in subcategories %}
+    {% if subcat contains '-' %}
+      {% assign parts = subcat | split: '-' %}
+      {% assign subcat_clean = parts[1] | strip %}
+    {% else %}
+      {% assign subcat_clean = subcat %}
+    {% endif %}
 
-  <h3>{{ subcat_clean | replace: "session", "Session " }}</h3>
+    <h3>{{ subcat_clean | replace: "session", "Session " }}</h3>
 
-  <ul class="post-list">
-    {% assign sorted_team_posts = team_posts | sort: "date" %}
-    {% for post in sorted_team_posts %}
-      {% if post.categories contains subcat %}
-        <li>
-        
-          <span class="post-meta">{{ post.date | date: "%d %B %Y"}}</span>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-
-        
-        {%- if site.minima.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-        
-      {% endif %}
-    {% endfor %}
-  </ul>
+    <ul class="post-list">
+      {% assign sorted_team_posts = team_posts | sort: "date" %}
+      {% for post in sorted_team_posts %}
+        {% assign first_subcat = post.categories[1] %}
+        {% if first_subcat == subcat %}
+          <li>
+            <span class="post-meta">{{ post.date | date: "%d %B %Y" }}</span>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+            {%- if site.minima.show_excerpts -%}
+              {{ post.excerpt }}
+            {%- endif -%}
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
   {% endfor %}
+  
 </article>

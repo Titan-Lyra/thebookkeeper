@@ -229,6 +229,7 @@
 .post-meta {
   font-size: $small-font-size;
   color: $brand-color-dimmed;
+  
 }
 
 .post-link {
@@ -242,10 +243,35 @@
  * Posts
  */
 .post-header {
-  margin-bottom: $spacing-unit;
-  padding-bottom: 18px;
+  margin-bottom: 30px;
+  color: #fff;
+  background-size: cover;
+  background-position: center center;
+  background-color: $post-header-color;
+  padding: 3rem 0;
   text-align: center;
-  border-bottom: 1px solid $border-color-01;
+  border-bottom: 1px solid #e7e7e7;
+  & .post-meta, .post-categories, a{
+    color: #fff;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    
+  }
+  & a{
+    text-decoration: underline;
+  }
+  & .related-posts{
+    margin: 0;
+    list-style-type: none;
+  }
+
+  .post-categories{
+    padding-top: 2rem;
+  }
+}
+
+.post-categories{
+  padding: 1rem 0 0;
+  font-weight: bold;
 }
 
 .post-meta {
@@ -269,7 +295,8 @@
   font-weight: $base-font-weight;
   letter-spacing: -1px;
   line-height: 1.15;
-
+  color: #fff;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
   @media screen and (min-width: $on-large) {
     @include relative-font-size(2.625);
   }
@@ -337,10 +364,32 @@
 /**
  * Pagination navbar
  */
+ .post-header {
+  .pagination{
+    padding: 2rem 0 0;
+    border-width: 4px;
+    border-color: #fff;
+    padding-bottom: 2rem;
+    margin-top: 2rem;
+    p{
+      font-weight: bold;
+    }
+    a{
+      color: #fff;
+    }
+  }
+ }
 .pagination {
-  display: table;
   margin: 0 auto;
   list-style-type: none;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  text-align: center;
+  border-top: 1px solid #888;
+  padding: 2rem 0;
+  div {
+
+  }
   li {
     float: left;
     margin: 0 3px;

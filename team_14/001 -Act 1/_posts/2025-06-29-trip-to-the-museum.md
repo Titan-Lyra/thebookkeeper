@@ -1,7 +1,10 @@
 ---
 layout: post
-title:  "Trip to the Museum"
+title:  "The Murkmire Malevolence - Trip to the Museum"
+header-image: "team_14/images/trip-to-the-museum.webp"
 date:   2025-06-29 19:29:00
+modified_date: 2025-07-03 19:47:00
+categories: [The Murkmire Malevolence]
 members: [Caelum, Amber, Rowan, Grof, Alice]
 ---
 

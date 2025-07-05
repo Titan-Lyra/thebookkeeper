@@ -1,0 +1,75 @@
+  {% assign this_category = page.categories[0] %}
+{% assign sorted_posts = site.posts | where_exp:"p", "p.categories contains this_category" | sort:"date" %}
+{% assign current_index = nil %}
+
+{% for post in sorted_posts %}
+  {% if post.url == page.url %}
+    {% assign current_index = forloop.index0 %}
+  {% endif %}
+{% endfor %}
+{% if sorted_posts.size > 1 %}
+<nav class="pagination">
+    <div>
+  {% if current_index != nil %}
+    {% if current_index > 0 %}
+    {% assign prev_index = current_index | minus: 1 %}
+      {% assign prev_post = sorted_posts[prev_index] %}
+      
+        <p>Previous Story</p>
+        <a class="prev" href="{{ prev_post.url | relative_url }}">{{ prev_post.title }}</a>
+      
+      
+    {% endif %}
+</div>
+    {% assign next_index = current_index | plus: 1 %}
+    {% if next_index < sorted_posts.size %}
+      {% assign next_post = sorted_posts[next_index] %}
+       <div>
+        <p>Next Story</p>
+         <a class="next" href="{{ next_post.url | relative_url }}">{{ next_post.title }}</a>
+      </div>
+     
+    {% endif %}
+  {% endif %}
+</nav>
+{% endif %}
+
+{% assign cleaned_categories = "" %}
+{% for cat in page.categories %}
+
+  {% assign clean_cat = cat | replace_regex: "^[0-9]+\\s*-\\s*", "" %}
+  {% if clean_cat contains '-' %}
+      {% assign parts = clean_cat | split: '-' %}
+      {% assign clean_cat = parts[1] | strip %}
+    {% endif %}
+  {% assign clean_cat = clean_cat | replace: "_", " " %}
+  {% assign clean_cat = clean_cat | downcase | capitalize %}
+
+  {% if forloop.first %}
+    {% assign cleaned_categories = clean_cat %}
+  {% else %}
+    {% assign cleaned_categories = cleaned_categories | append: " > " | append: clean_cat %}
+  {% endif %}
+{% endfor %}
+
+
+
+
+<p class="post-categories">
+  {{ cleaned_categories }}
+</p>
+{% assign last_category = page.categories | last %}
+{% assign related_posts = site.posts | where_exp: "post", "post.categories contains last_category" %}
+{% assign related_posts = related_posts | sort: "date" %}
+
+{% if related_posts.size > 0 %}
+  <ul class="related-posts">
+    {% for post in related_posts %}
+      <li>
+        <a href="{{ post.url | relative_url }}">
+          {{ post.title }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+{% endif %}
