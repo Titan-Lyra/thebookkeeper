@@ -3,8 +3,9 @@ layout: post
 title:  "A Memory of Strixhaven"
 date:   2025-07-05 21:20:00
 members: [Chronos, Derek, Devon, Malrix, RyzeFoYu]
+mentioned: [Beledros Witherbloom, Tanazir Quandrix, Galazeth Prismari, Shadrix Silverquill, Velomachus Lorehold, Valentin, Lisette, Kianne, Imbraham, Uvilda, Nassari, Shaile, Embrose, Plargg, Augusta]
 ---
-
+{% include character-links.md %}
 I can’t remember why I chose to enroll in Strixhaven. Was it the allure of magic, the gathering of so many people in one place, or was it something else entirely? Lately, I’ve been thinking back to that time, which feels like a lifetime ago. I remember writing everything down back then. I hope to recover every single note of my youth, including this one—though I fear they are lost in the void. For now, I will write down everything I can recall.
 
 ## Strixhaven
@@ -99,7 +100,7 @@ Not much else to say—except that somehow he got sent back in time and landed r
 “Every group needs a [RyzeFoYu]({{ '/characters/ryzefoyu/' | relative_url }}).” Not my words, but those of a somewhat skilled monk I once worked alongside. As I sit here writing this, I can’t recall much else about him—though I’m sure more details will return eventually.
 
 ### Malrix Vex – Silverquill
-[Malrix Vex]({{ '/characters/malrix-vex/' | relative_url }}) was my first true nemesis in this lifetime. Or perhaps I was his. Although, to be fair, I don’t think he ever realized it was me.
+[Malrix] Vex was my first true nemesis in this lifetime. Or perhaps I was his. Although, to be fair, I don’t think he ever realized it was me.
 
 He was the illustrious inventor of the Doom Coin™—a name that sounds impressive but is, in reality, just an elaborate pyramid scheme (my lawyers insist I say “allegedly”). For quite some time, I disguised myself as various Strixhaven faculty members to skim a few coins from him here and there. Most of the time, he didn’t fall for it. But there was that one occasion when I managed to extract ten gold and donate it to the Mage Tower fund. In his name of course.
 
@@ -109,4 +110,3 @@ Rumour has it he forged his way into Strixhaven (legal disclaimer inserted by my
 Every story has a main character—and in this story, that would be [me]({{ '/characters/derek/' | relative_url }}). I was the brains of the group. And the muscle (in the Dragonborn form I borrowed). And, of course, the wit.
 
 I had it all. As you’ll see throughout these accounts, I was the binding force that held this group together. My skills were unmatched. And, conveniently, as far as I know, I’m the only one who bothered to record our time at Strixhaven in detail.
-

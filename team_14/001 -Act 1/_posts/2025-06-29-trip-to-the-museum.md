@@ -6,8 +6,10 @@ date:   2025-06-29 19:29:00
 modified_date: 2025-07-03 19:47:00
 categories: [The Murkmire Malevolence]
 members: [Caelum, Amber, Rowan, Grof, Alice]
+appeared: [Dannell, Alda, Dadnort, Violet, Garent]
+characters: [Lady Ameline Halveron]
 ---
-
+{% include character-links.md %}
 Oh wow... credit given where credit is due. Team 14 is proving to be more reliable than I expected. The citizens of Greyhawk can thank their gods that I have formed this team. And that to think I almost recuited some different members. Although I think a wizard or sorcerer would have been fitting for this group. That doesn't mean that this team isn't adequit. I think I will use the word "splendid" for them.
 
 ### Meeting with Doctor Dannell
@@ -18,7 +20,7 @@ One detail struck me as peculiar: she offered them only 100 gold. I would have e
 ### A Trip through the Museum
 They got off to a rocky start. Posing as a group of tourists, they entered the museum—and apparently triggered an alarm in the process. That’s certainly one way to discover the east doors are rigged with alarms. Not long after, the rogue nearly got herself caught trying to pickpocket a guard. When [redacted] relayed this part to me, I was almost ready to send in backup. Somehow, they managed to de-escalate the situation. I still don’t understand this note: “The orc got bored watching the plants.”
 
-Eventually, they pulled themselves together and made it upstairs—hardly the most difficult part of the job, but at that point, I’ll take any small victory. [#1]({{ '/characters/caelum/' | relative_url }}) still carries that distinctive noble air about him (and as a fellow noble, I feel entitled to say so). I do wonder whether most of the people he spoke to thought he was completely unhinged. I almost wish he were more like [#4]({{ '/characters/grof-granok/' | relative_url }}), who at least has the sense to keep quiet unless he has something worthwhile to say. Even so, #1 managed to glean a few useful details about the museum from Dadnort, the gnome who runs the Unearthed Café. Why does my report say they spoke with the gnome for two and a half hours?
+Eventually, they pulled themselves together and made it upstairs—hardly the most difficult part of the job, but at that point, I’ll take any small victory. [#1]({{ '/characters/caelum/' | relative_url }}) still carries that distinctive noble air about him (and as a fellow noble, I feel entitled to say so). I do wonder whether most of the people he spoke to thought he was completely unhinged. I almost wish he were more like [#4]({{ '/characters/grof-granok/' | relative_url }}), who at least has the sense to keep quiet unless he has something worthwhile to say. Even so, #1 managed to glean a few useful details about the museum from [Dadnort], the gnome who runs the Unearthed Café. Why does my report say they spoke with the gnome for two and a half hours?
 
 After another run-in with a guard, they finally slipped into a locked room—only to be discovered by yet another guard. Fortunately, it was Violet Pendergilt. (As a side note, she might make an excellent pairing with [#5]({{ '/characters/alice/' | relative_url }}) for my next gathering.). And yes, you read that correctly: they managed to talk their way out of the situation by claiming they were looking for the privy. They were extremely lucky Violet was the one who found them rather than Garent, who would have bullied them into paying a tidy sum for their trouble.
 
@@ -58,6 +60,4 @@ At the time of writing, three of them are hiding on the roof, while #1 and #4 ha
 ### Things to add to my to-do list:
 - Have a talk with [redacted] about why she was spotted.
 - Arrange a meeting with the Lady of Streaming Springs.
-
-
 

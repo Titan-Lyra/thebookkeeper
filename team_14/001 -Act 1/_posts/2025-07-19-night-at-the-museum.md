@@ -7,6 +7,6 @@ categories: [The Murkmire Malevolence]
 members: [Caelum, Amber, Rowan, Grof, Alice]
 published: false
 ---
-
+{% include character-links.md %}
 
 

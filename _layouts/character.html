@@ -12,3 +12,43 @@ layout: page
 </ul>
 
 {{content}}
+
+{% assign character_name = page.name %}
+
+{% assign related_posts = "" | split: "" %}
+
+{% for post in site.posts %}
+  {% if post.members contains character_name or post.appeared contains character_name or post.characters contains character_name %}
+    {% assign related_posts = related_posts | push: post %}
+  {% endif %}
+{% endfor %}
+
+{% assign related_posts = related_posts | sort: "date" %}
+<h3>Mentions in posts</h3>
+{% if related_posts != empty %}
+  
+  <ul>
+  {% for post in related_posts %}
+    <li>
+      <a href="{{ post.url | relative_url }}">
+        {{ post.title }}
+      </a>
+      <span class="post-meta">
+        ({{ post.date | date: "%d %B %Y" }})
+        {% if post.members contains character_name %}
+          — PC
+        {% elsif post.appeared contains character_name %}
+          — Appeared
+        {% elsif post.characters contains character_name %}
+          — Mentioned
+        {% endif %}
+      </span>
+    </li>
+  {% endfor %}
+  </ul>
+{% else %}
+  <p>No mentions found in posts.</p>
+{% endif %}
+
+
+
