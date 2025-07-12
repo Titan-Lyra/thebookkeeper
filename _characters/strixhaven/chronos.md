@@ -8,5 +8,7 @@ status: Alive
 
 layout: character
 team: [strixhaven]
+
+image: chronos.jpeg
 ---
 

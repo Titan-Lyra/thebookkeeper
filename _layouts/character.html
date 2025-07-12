@@ -2,13 +2,20 @@
 layout: page
 ---
 
-<ul class="post-list">
+<ul class="post-list character-list">
+  <div>
     {% if page.alias %} 
         <li><strong>Alias:</strong> {{ page.alias}} </li> 
     {%- endif -%}
     <li><strong>Species:</strong> {{ page.species}}</li>    
     <li><strong>Class:</strong> {{ page.class}}</li>  
-    <li><strong>Status:</strong> {{ page.status}}</li>  
+    <li><strong>Status:</strong> {{ page.status}}</li>
+  </div>
+  <div>
+     {% if page.image %} 
+      <img src="../{{page.image}}">
+    {%- endif -%}
+  </div>
 </ul>
 
 {{content}}

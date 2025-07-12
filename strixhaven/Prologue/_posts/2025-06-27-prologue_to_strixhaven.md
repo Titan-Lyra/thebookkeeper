@@ -20,7 +20,7 @@ Let me warn you: stay out of Witherbloom if you don’t belong there. Or better 
 
 **Founding Dragon:** Beledros Witherbloom
 
-**Deans:** Valentin, Dein of the Vein & Lisette, Dein of the Root.
+**Deans:** Valentin, Dean of the Vein & Lisette, Dean of the Root.
 
 **Mascot:** a Pest
 

@@ -5,3 +5,9 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+.post-list.character-list{
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 1rem;
+}
