@@ -3,8 +3,8 @@ title: Rose
 name: Rose
 alias: "[redacted] / #0"
 
-species: Thiefling
-class: Rogue
+species: Tiefling
+class: Gloom Stalker Ranger
 status: Alive
 
 layout: character

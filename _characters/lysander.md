@@ -2,7 +2,7 @@
 title: Lysander
 name: Lysander
 
-species: Thiefling
+species: Tiefling
 class: Bard
 status: Presumed dead
 

@@ -6,8 +6,7 @@ date:   2025-06-29 19:29:00
 modified_date: 2025-07-03 19:47:00
 categories: [The Murkmire Malevolence]
 members: [Caelum, Amber, Rowan, Grof, Alice]
-appeared: [Dannell, Alda, Dadnort, Violet, Garent]
-characters: [Lady Ameline Halveron]
+characters: [Dannell, Alda, Dadnort, Violet, Garent, Lady Ameline Halveron]
 ---
 {% include character-links.md %}
 Oh wow... credit given where credit is due. Team 14 is proving to be more reliable than I expected. The citizens of Greyhawk can thank their gods that I have formed this team. And that to think I almost recuited some different members. Although I think a wizard or sorcerer would have been fitting for this group. That doesn't mean that this team isn't adequit. I think I will use the word "splendid" for them.

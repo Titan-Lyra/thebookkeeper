@@ -244,16 +244,16 @@
  */
 .post-header {
   margin-bottom: 30px;
-  color: #fff;
-  background-size: cover;
-  background-position: center center;
-  background-color: $post-header-color;
+  // color: #fff;
+  // background-size: cover;
+  // background-position: center center;
+  // background-color: $post-header-color;
   padding: 3rem 1rem;
   text-align: center;
   border-bottom: 1px solid #e7e7e7;
   & .post-meta, .post-categories, a{
-    color: #fff;
-    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    // color: #fff;
+    // text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
     
   }
   & a{
@@ -292,11 +292,11 @@
 .post-content h1 {
   margin-bottom: 10px;
   @include relative-font-size(2.625);
-  font-weight: $base-font-weight;
+  // font-weight: $base-font-weight;
   letter-spacing: -1px;
   line-height: 1.15;
-  color: #fff;
-  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  color: $post-header-color;
+  // text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
   @media screen and (min-width: $on-large) {
     @include relative-font-size(2.625);
   }
@@ -374,9 +374,9 @@
     p{
       font-weight: bold;
     }
-    a{
-      color: #fff;
-    }
+    // a{
+    //   color: #fff;
+    // }
   }
  }
 .pagination {
