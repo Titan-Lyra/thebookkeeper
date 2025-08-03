@@ -25,7 +25,7 @@ Rather than ascend the rope himself, #1 decided to open the loading dock doors�
 ### Guards on Alert
 This is where things became chaotic, and even my own intelligence failed to capture every detail. The druid incapacitated the first guard who entered the roof through the skylight with just two blows. Another guard who re-entered the building was likewise quickly subdued—until two more guards emerged from the stairwell and surprised them.
 
-I remain puzzled as to why [Violet Pendergilt] offered no resistance. Although #2 spoke to her briefly, they still had to render her unconscious. I should have sought clarification; once Team 14 makes for Still Waters, I may pay Violet a visit myself.
+I remain puzzled as to why [Violet Pendergilt] offered no resistance. Although #2 spoke to her briefly, they still had to render her unconscious. I should have sought clarification; once Team 14 makes for Streaming Springs, I may pay Violet a visit myself.
 
 A further clash occurred in the Gemstone Wing and the Underground Wonder exhibit, nearly costing both #3 and [#5]({{ '/characters/alice/' | relative_url }}) their lives. Given my plans with the bard, their potential deaths would have been most regrettable; I am relieved to report that both survived the scuffle. It was also amply demonstrated that Alice is anything but boring, which worked against her when she tried to put two guards to sleep.
 
@@ -41,4 +41,4 @@ They then promptly departed the museum by descending the rope. I’d rather not 
 
 As an additional reward, I presented them with a Wand of Magic Detection, which the druid accepted with grace.
 
-Their next destination is Still Waters, where the team will investigate the appearance and disappearance of a ghast. There they will collaborate with a librarian named [Ties], hereby dubbed #6. They are instructed to meet discreetly with [Lady Ameline Halveron] without her husband, [Lord Cedric Halveron], becoming aware of their conversation.
+Their next destination is Streaming Springs, where the team will investigate the appearance and disappearance of a ghast. There they will collaborate with a librarian named [Ties], hereby dubbed #6. They are instructed to meet discreetly with [Lady Ameline Halveron] without her husband, [Lord Cedric Halveron], becoming aware of their conversation.

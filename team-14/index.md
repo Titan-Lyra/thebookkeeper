@@ -1,7 +1,7 @@
 ---
 title: Team 14
 layout: logoverview
-main_category: team_14
+main_category: team-14
 team: "team 14"
 ---
 <!-- 
