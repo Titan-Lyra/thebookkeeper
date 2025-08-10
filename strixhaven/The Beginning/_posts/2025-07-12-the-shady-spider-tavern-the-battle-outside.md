@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "The Shady Spider Tavern - The Battle Outside"
-date:   2025-08-10
-modified_date: 2025-08-11
+date:   2025-08-09
+modified_date: 2025-08-10
 members: [Chronos, Derek, Devon, Malrix, RyzeFoYu]
 characters: [Madam Spider, Javenesh Stoutdaw, Larine Arneza, Melwythorne, Mina Lee, Quentillius Angiphiun Melentor III, Kevin Lee, Sarah Lee, Falcon, Valentin, Lisette]
 
