@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Book of Lysander - Bubbles"
-date:   2025-08-16
+date:   2025-08-16 19:00:00
 modified_date: 2025-08-17
 categories: [The Book of Lysander]
 members: [Caelum, Rowan, Grof, Alice]

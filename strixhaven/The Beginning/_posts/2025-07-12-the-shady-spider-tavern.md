@@ -2,8 +2,9 @@
 layout: post
 title:  "The Shady Spider Tavern"
 date:   2025-07-12
+modified_date: 2025-08-17
 members: [Chronos, Derek, Devon, Malrix, RyzeFoYu]
-characters: [Augusta, Theoric, Uvilda, Nassari, Ambrose, Lisette, Kianne, Madam Spider, Javenesh Stoutdaw, Larine Arneza, Melwythorne, Mina Lee, Quentillius Angiphiun Melentor III, Kevin Lee, Sarah Lee]
+characters: [Augusta, Tedric, Uvilda, Nassari, Ambrose, Lisette, Kianne, Madam Spider, Javenesh Stoutdaw, Larine Arneza, Melwythorne, Mina Lee, Quentillius Angiphiun Melentor III, Kevin Lee, Sarah Lee]
 ---
 {% include character-links.md %}
 
@@ -14,7 +15,7 @@ Allow me to warn you in advance: this account will be quite difficult to follow 
 ## Visited by Augusta, the Dean of Order
 If my memory serves me well, it was on a sunny mid-morning early in the semester when I was visited by one of my dear deans, [Augusta]. Her visit wasn’t quite a surprise, since every final-year student at Strixhaven receives a visit from one of their deans. In my case, it was the Dean of Order. She came into my dorm and informed me of my journey. To this day, I still deny the allegations that I successfully pickpocketed the dean to get my student card a tad bit earlier. Also note that yes, I would have been quite capable of doing so.
 
-She explained that I was to work together with a group formed from students of the other colleges. I was pleased to hear that [Chronos] from Quandrix would be in my team. Somehow, that Harengon managed to enroll at Strixhaven directly in his final year. This was even approved by [Theoric Taiva]! That was quite a surprise when I discovered it. Thankfully, my unofficial request had been accepted.
+She explained that I was to work together with a group formed from students of the other colleges. I was pleased to hear that [Chronos] from Quandrix would be in my team. Somehow, that Harengon managed to enroll at Strixhaven directly in his final year. This was even approved by [Tedric Taiva]! That was quite a surprise when I discovered it. Thankfully, my unofficial request had been accepted.
 
 [RyzeFoYu] was visited by both deans of Prismari—[Uvilda], Dean of Perfection, and [Nassari], Dean of Expression. [Ambrose], Dean of Shadow, visited [Malrix]. [Lisette], Dean of Root, visited [Devon]. And [Chronos] received a visit from [Kianne], Dean of Substance.
 
@@ -24,7 +25,7 @@ In hindsight, I should have asked this question immediately: Why us? Why was thi
 
 ![Archway Commons]({{"/strixhaven/images/2025-07-12-archway-commons.jpeg" | relative_url}})
 
-With haste, I went to the Archway Commons. The statue of Theoric Taiva, the Voice of the Founder, was towering before me. Above my head, a green icon hovered so I could easily identify my soon-to-be friends. Before we even managed to introduce ourselves, the man himself appeared before his own statue (well, he was hovering a bit off the ground). Theoric had a speech prepared in which he encouraged us to show the world that Strixhaven produces the greatest magicians in the world—or did he say continent?
+With haste, I went to the Archway Commons. The statue of Tedric Taiva, the Voice of the Founder, was towering before me. Above my head, a green icon hovered so I could easily identify my soon-to-be friends. Before we even managed to introduce ourselves, the man himself appeared before his own statue (well, he was hovering a bit off the ground). Tedric had a speech prepared in which he encouraged us to show the world that Strixhaven produces the greatest magicians in the world—or did he say continent?
 
 After that, we had some time to get to know each other, and oh boy, I knew I would have a difficult job getting this team to work together. Within minutes, a fight broke out between Chronos and Malrix. I tried to hush the argument to no avail (allegedly, Malrix called Chronos a rabbit). Eventually, we received, by magical means, two instructions: “The Shady Spider Tavern” and “Madam Spider.” You don’t need to be a scholar to figure out those two were linked. Devon informed us it was a tavern just across the border of Witherbloom.
 
