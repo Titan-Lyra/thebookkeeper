@@ -19,6 +19,11 @@
 <!-- Deans -->
 
 <!-- Team 14 -->
+[Amber]: {{ '/characters/amber/' | relative_url }}
+[Grof]: {{ '/characters/grof_granok/' | relative_url }}
+[Alice]: {{ '/characters/alice/' | relative_url }}
+[Caelum]: {{ '/characters/caelum/' | relative_url }}
+[Rowan]: {{ '/characters/rowan/' | relative_url }}
 
 <!-- Side characters -->
 [Dadnort]: {{ '/characters/dadnort/' | relative_url }}
