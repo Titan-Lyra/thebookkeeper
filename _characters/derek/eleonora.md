@@ -9,4 +9,6 @@ status: Alive
 
 layout: character
 team: [derek]
+
+image: eleonora.jpg
 ---

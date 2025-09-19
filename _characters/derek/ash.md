@@ -8,4 +8,6 @@ status: Alive
 
 layout: character
 team: [derek]
+
+image: ash.jpg
 ---
