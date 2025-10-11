@@ -27,7 +27,7 @@ I will admit that I am not without fault. Mistakes were made. Though some blame 
 From the party’s perspective, it was a slaughter. They were outmatched; poor [Grof] bore the full fury of the hag. Alone, the hag would have been formidable. Add the dragon and four gingerbread people… and their demise would have been certain. Fortunately, [Uncle Nibblecheek] preferred to turn them into chocolate rather than annihilate them outright. This delay gave the heroic Rowan time to escape and single-handedly defeat the hag—or at least, that is what the party believes. They must trust him for now.
 
 ## And Afterwards
-The entire party, including the squirrel [Nibbles], traveled north to Lurkish under my instructions. Their cozy lives are about to change forever, as the fate of the world may rest in their hands. No pressure.
+The entire party, including the squirrel [Nibbles], traveled north to Leukish under my instructions. Their cozy lives are about to change forever, as the fate of the world may rest in their hands. No pressure.
 I believe Fill returned [Asger Applegarth] to Hubbleton. The Nyrond soldiers likely left to search for their lost prince once more. [Caleb] will have to confront his father.
 
 ---
