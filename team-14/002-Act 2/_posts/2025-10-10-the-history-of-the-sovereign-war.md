@@ -21,7 +21,7 @@ You may have noticed I never cared much for [Caelum]. I never wished him dead—
 
 My dear [Rose]… she was like a daughter to me. Never a true team player—the others didn’t even know she was part of the team. That was for the best; her involvement would have increased their chances of success, and I needed to know if the others were capable on their own. Sadly, her relentless pursuit of her father’s legacy may yet destroy her.
 
-And let’s not forget Alice.
+And let’s not forget [Alice].
 
 ### The Sovereign War
 It has been more than twenty years since the final clash between the forces of light and the being known as the Overking—the battle fought at the border of the kingdom, where the fate of our world was decided.
