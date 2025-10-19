@@ -35,3 +35,7 @@
 <!-- The lady and the Ghast -->
 [Lady Ameline Halveron]: {{ '/characters/ameline-halveron/' | relative_url }}
 [Lord Cedric Halveron]: {{ '/characters/cedric-halveron/' | relative_url }}
+
+<!-- DEREK -->
+[Lou]: {{ '/characters/lucian/' | relative_url }}
+[El]: {{ '/characters/eleonora/' | relative_url }}
