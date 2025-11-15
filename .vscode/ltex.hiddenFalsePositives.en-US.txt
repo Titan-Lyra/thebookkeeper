@@ -1,0 +1,1 @@
+{"rule":"HER_HERE","sentence":"^\\QHer\nI saw her running.\\E$"}
